@@ -17,8 +17,8 @@ The primary objectives of the AI-Driven Customer Support Chatbot project are:
 
 ## WORKFLOW:
 
-•  Frontend Development: Created responsive chat interface. Implements message input/display and add real-time updates. Style with CSS and implemented in HTML
-•  Dialogflow Configuration: The backend of the chatbot is set up using the Dialogflow service, where agents, intents, and entities are defined to handle various customer queries.
-•  API Integration: The chatbot's backend is integrated with Dialogflow service provided by GAE API to facilitate data exchange and task fulfillment, ensuring seamless communication between the customer and the support system.
-•  End-to-End Testing: The complete system, including the frontend, backend, and API integration, is thoroughly tested to ensure the chatbot's responses are accurate, relevant, and personalized to the customer's needs.
-•  Deployment: The AI-Driven Customer Support Chatbot is deployed, making it accessible to customers and enabling them to engage with the service through the user-friendly web interface.
+- Frontend Development: Created responsive chat interface. Implements message input/display and add real-time updates. Style with CSS and implemented in HTML
+- Dialogflow Configuration: The backend of the chatbot is set up using the Dialogflow service, where agents, intents, and entities are defined to handle various customer queries.
+- API Integration: The chatbot's backend is integrated with Dialogflow service provided by GAE API to facilitate data exchange and task fulfillment, ensuring seamless communication between the customer and the support system.
+- End-to-End Testing: The complete system, including the frontend, backend, and API integration, is thoroughly tested to ensure the chatbot's responses are accurate, relevant, and personalized to the customer's needs.
+- Deployment: The AI-Driven Customer Support Chatbot is deployed, making it accessible to customers and enabling them to engage with the service through the user-friendly web interface.
